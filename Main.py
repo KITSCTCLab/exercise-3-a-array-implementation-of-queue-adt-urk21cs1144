@@ -96,8 +96,6 @@ class Solution:
             self.front += 1
             return self.queue[self.front - 1] 
                 
-
-
 # read the string text
 text = input()
 
